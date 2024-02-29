@@ -4,7 +4,7 @@ terraform {
     organization = "patterson-demo"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "pattersondemo"
     }
   }
 
