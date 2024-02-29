@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = patterson-demo
+    organization = "patterson-demo"
 
     workspaces {
       name = "pattersondemo"
